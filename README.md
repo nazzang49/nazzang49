@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 
 
 
-[![Notion Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/Welcome-c13c42601ce544169a897b1a964bfbef/)](https://www.notion.so/Welcome-c13c42601ce544169a897b1a964bfbef)
+[![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=github&link=https://www.notion.so/Welcome-c13c42601ce544169a897b1a964bfbef/)](https://www.notion.so/Welcome-c13c42601ce544169a897b1a964bfbef)
 	
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+[![Brunch Badge](https://img.shields.io/badge/-Brunch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://brunch.co.kr/@daily-archive)](https://brunch.co.kr/@daily-archive)
 	
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
-	
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nazzang49@gmail.com)](mailto:nazzang49@gmail.com)
