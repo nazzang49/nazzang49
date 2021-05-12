@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 [![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=github&link=https://www.notion.so/Welcome-c13c42601ce544169a897b1a964bfbef/)](https://www.notion.so/Welcome-c13c42601ce544169a897b1a964bfbef)
 	
-[![Brunch Badge](https://img.shields.io/badge/-Brunch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://brunch.co.kr/@daily-archive)](https://brunch.co.kr/@daily-archive)
+[![Brunch Badge](https://img.shields.io/badge/-Brunch-blue?style=flat-square&logo=Bloglovin&logoColor=white&link=https://brunch.co.kr/@daily-archive)](https://brunch.co.kr/@daily-archive)
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nazzang49@gmail.com)](mailto:nazzang49@gmail.com)
+
+
+
+[![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java]
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=nazzang49)](https://github.com/anuraghazra/github-readme-stats)
