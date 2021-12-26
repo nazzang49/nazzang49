@@ -1,32 +1,39 @@
-# WELCOME TO DEV WORLD :smiley:
+# ML ENGINEER
 
-## VISIT :smiley:
+## [PORTFOLIO](https://jet-rook-fae.notion.site/Portfolio-01031e1fc72a44bd9ac2a4d7e0391447)
+- DL PROJECTS
+- CV
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnazzang49&count_bg=%2379C83D&title_bg=%23555555&icon=hackster.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## SKILL
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<br>
+## TOOL
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-## BLOG :smiley:
+## DL TEAM PROJECT
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://jet-rook-fae.notion.site/AI-it-b0ee85a289404de9852c579ef7d9b5e5)](https://jet-rook-fae.notion.site/AI-it-b0ee85a289404de9852c579ef7d9b5e5)
 
-[![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=github&link=https://www.notion.so/Welcome-c13c42601ce544169a897b1a964bfbef/)](https://www.notion.so/Welcome-c13c42601ce544169a897b1a964bfbef) [![Brunch Badge](https://img.shields.io/badge/-Brunch-blue?style=flat-square&logo=Bloglovin&logoColor=white&link=https://brunch.co.kr/@daily-archive)](https://brunch.co.kr/@daily-archive)
+## CONTACT
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jinyoung-park-29a698215/)](https://www.linkedin.com/in/jinyoung-park-29a698215/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nazzang49@gmail.com)](mailto:nazzang49@gmail.com)
 
-<br>
+## LANGUAGE
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazzang49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## CONTACT :smiley:
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nazzang49@gmail.com)](mailto:nazzang49@gmail.com)
-
-<br>
-
-## EXPERIENCED :smiley:
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
-
-<br>
-
-## STAT :smiley:
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nazzang49)](https://github.com/anuraghazra/github-readme-stats)
+## STAT
+![nazzang49's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazzang49&show_icons=true&theme=dark)
