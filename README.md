@@ -1,11 +1,11 @@
-# ML ENGINEER
+# DATA ENGINEER
 
-## [PORTFOLIO](https://jet-rook-fae.notion.site/Portfolio-01031e1fc72a44bd9ac2a4d7e0391447)
-- DL PROJECTS
-- CV
+## [PORTFOLIO](https://jay-park.notion.site/Projects-4b931a0e9068406c8369aa913b319a3b)
+- **REAL-TIME BIDDING ETL**
+- **REPORT AUTOMATION**
 
 ## SKILL
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/ApacheSpark-%23EE4C2C.svg?style=for-the-badge&logo=ApacheSpark&logoColor=#E25A1C)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
