@@ -34,6 +34,3 @@
 
 ## LANGUAGE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazzang49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## STAT
-![nazzang49's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazzang49&show_icons=true&theme=dark)
